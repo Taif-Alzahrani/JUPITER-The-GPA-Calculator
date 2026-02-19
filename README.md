@@ -14,3 +14,11 @@
 
 ![image alt](https://github.com/Taif-Alzahrani/JUPITER-The-GPA-Calculator/blob/42bb9795e784659f0e03e8aef88011de08a9a3e9/Images/Preference%20%26%20Feedback%20interfaces%20.JPG)
 
+![image alt]( https://github.com/Taif-Alzahrani/JUPITER-The-GPA-Calculator/blob/1ef3a06c4618f08cdfaaa0d270e7a9f83179c2d2/Images/FUNCTIONAL%20REQUIREMENTS.JPG)
+
+
+![image alt]( https://github.com/Taif-Alzahrani/JUPITER-The-GPA-Calculator/blob/1ef3a06c4618f08cdfaaa0d270e7a9f83179c2d2/Images/SOFTWARE%20DESIGN%20SPECIFICARION(ERD).JPG)
+
+
+![image alt]( https://github.com/Taif-Alzahrani/JUPITER-The-GPA-Calculator/blob/1ef3a06c4618f08cdfaaa0d270e7a9f83179c2d2/Images/User%20interactions%20with%20subsystems(Use%20Case).JPG)
+
